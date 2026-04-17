@@ -1,0 +1,20 @@
+{
+	"pageTitle": "WinWinTravel frontend test task",
+	"openFilters": "Open filters",
+	"modalTitle": "Filters",
+	"modalDescription": "Choose the filters you want to apply.",
+	"selectedFilters": "Selected filters",
+	"apply": "Apply",
+	"cancel": "Cancel",
+	"close": "Close",
+	"clearAll": "Clear all parameters",
+	"confirmTitle": "Apply new filter",
+	"confirmDescription": "Do you want to apply new filter",
+	"confirmApprove": "Confirm",
+	"confirmCancel": "Use old filters",
+	"emptyState": "No filters selected.",
+	"loading": "Loading filters...",
+	"error": "Failed to load filters.",
+	"sectionOptionsCount": "{{count}} selected",
+	"jsonHeading": "Applied filters JSON"
+}
